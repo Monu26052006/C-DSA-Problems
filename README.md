@@ -17,4 +17,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Monu26052006/C-DSA-Problems/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Monu26052006/C-DSA-Problems/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
