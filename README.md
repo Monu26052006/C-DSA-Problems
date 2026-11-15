@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Monu26052006/C-DSA-Problems/tree/master/0001-two-sum) |
+| [0138-copy-list-with-random-pointer](https://github.com/Monu26052006/C-DSA-Problems/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Monu26052006/C-DSA-Problems/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Monu26052006/C-DSA-Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [1096-brace-expansion-ii](https://github.com/Monu26052006/C-DSA-Problems/tree/master/1096-brace-expansion-ii) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/Monu26052006/C-DSA-Problems/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/Monu26052006/C-DSA-Problems/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Monu26052006/C-DSA-Problems/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0138-copy-list-with-random-pointer](https://github.com/Monu26052006/C-DSA-Problems/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Monu26052006/C-DSA-Problems/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/Monu26052006/C-DSA-Problems/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Monu26052006/C-DSA-Problems/tree/master/0160-intersection-of-two-linked-lists) |
