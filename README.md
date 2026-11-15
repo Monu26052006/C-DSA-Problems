@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/Monu26052006/C-DSA-Problems/tree/master/0148-sort-list) |
 | [1096-brace-expansion-ii](https://github.com/Monu26052006/C-DSA-Problems/tree/master/1096-brace-expansion-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Monu26052006/C-DSA-Problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Monu26052006/C-DSA-Problems/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/Monu26052006/C-DSA-Problems/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Monu26052006/C-DSA-Problems/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0141-linked-list-cycle](https://github.com/Monu26052006/C-DSA-Problems/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/Monu26052006/C-DSA-Problems/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Monu26052006/C-DSA-Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Monu26052006/C-DSA-Problems/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Monu26052006/C-DSA-Problems/tree/master/0876-middle-of-the-linked-list) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/Monu26052006/C-DSA-Problems/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Monu26052006/C-DSA-Problems/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0141-linked-list-cycle](https://github.com/Monu26052006/C-DSA-Problems/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/Monu26052006/C-DSA-Problems/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Monu26052006/C-DSA-Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/Monu26052006/C-DSA-Problems/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Monu26052006/C-DSA-Problems/tree/master/0206-reverse-linked-list) |
@@ -312,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Monu26052006/C-DSA-Problems/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/Monu26052006/C-DSA-Problems/tree/master/0148-sort-list) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Monu26052006/C-DSA-Problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Monu26052006/C-DSA-Problems/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Tree
@@ -369,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Monu26052006/C-DSA-Problems/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/Monu26052006/C-DSA-Problems/tree/master/0148-sort-list) |
 ## Tournament Sort
 |  |
 | ------- |
