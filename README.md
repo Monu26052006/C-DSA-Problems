@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/Monu26052006/C-DSA-Problems/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/Monu26052006/C-DSA-Problems/tree/master/1267-count-servers-that-communicate) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Monu26052006/C-DSA-Problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1472-design-browser-history](https://github.com/Monu26052006/C-DSA-Problems/tree/master/1472-design-browser-history) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Monu26052006/C-DSA-Problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Monu26052006/C-DSA-Problems/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Monu26052006/C-DSA-Problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Monu26052006/C-DSA-Problems/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Monu26052006/C-DSA-Problems/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Monu26052006/C-DSA-Problems/tree/master/0876-middle-of-the-linked-list) |
+| [1472-design-browser-history](https://github.com/Monu26052006/C-DSA-Problems/tree/master/1472-design-browser-history) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Monu26052006/C-DSA-Problems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
 |  |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1096-brace-expansion-ii](https://github.com/Monu26052006/C-DSA-Problems/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Monu26052006/C-DSA-Problems/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Monu26052006/C-DSA-Problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1472-design-browser-history](https://github.com/Monu26052006/C-DSA-Problems/tree/master/1472-design-browser-history) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Monu26052006/C-DSA-Problems/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Monu26052006/C-DSA-Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Breadth-First Search
@@ -384,4 +387,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Monu26052006/C-DSA-Problems/tree/master/0023-merge-k-sorted-lists) |
+## Design
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/Monu26052006/C-DSA-Problems/tree/master/1472-design-browser-history) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/Monu26052006/C-DSA-Problems/tree/master/1472-design-browser-history) |
+## Data Stream
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/Monu26052006/C-DSA-Problems/tree/master/1472-design-browser-history) |
 <!---LeetCode Topics End-->
