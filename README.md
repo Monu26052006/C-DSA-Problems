@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Monu26052006/C-DSA-Problems/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Monu26052006/C-DSA-Problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Monu26052006/C-DSA-Problems/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1922-count-good-numbers](https://github.com/Monu26052006/C-DSA-Problems/tree/master/1922-count-good-numbers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Monu26052006/C-DSA-Problems/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3524-find-x-value-of-array-i](https://github.com/Monu26052006/C-DSA-Problems/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/Monu26052006/C-DSA-Problems/tree/master/3525-find-x-value-of-array-ii) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/Monu26052006/C-DSA-Problems/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Monu26052006/C-DSA-Problems/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Monu26052006/C-DSA-Problems/tree/master/0234-palindrome-linked-list) |
+| [1922-count-good-numbers](https://github.com/Monu26052006/C-DSA-Problems/tree/master/1922-count-good-numbers) |
 ## Simulation
 |  |
 | ------- |
