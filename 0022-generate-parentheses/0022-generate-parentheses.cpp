@@ -1,26 +1,42 @@
+
 class Solution {
-private:
-    vector<string> sol;
-    void backtrack(string &temp, int open, int close) {
-        if(open == 0 && close == 0){
-            sol.push_back(temp);
+public:
+
+    void solve(int n, int open, int close,
+               string &current, vector<string>& ans) {
+
+        // Base case
+        if(current.size() == 2 * n) {
+            ans.push_back(current);
             return;
         }
-        if(open > 0){
-            temp.push_back('(');
-            backtrack(temp, open - 1, close);
-            temp.pop_back();
+
+        // Choice 1: Opening bracket
+        if(open < n) {
+            current.push_back('(');
+
+            solve(n, open + 1, close, current, ans);
+
+            current.pop_back();  // Backtrack
         }
-        if(close > open){
-            temp.push_back(')');
-            backtrack(temp, open, close - 1);
-            temp.pop_back();
+
+        // Choice 2: Closing bracket
+        if(close < open) {
+            current.push_back(')');
+
+            solve(n, open, close + 1, current, ans);
+
+            current.pop_back();  // Backtrack
         }
     }
-public:
+
     vector<string> generateParenthesis(int n) {
-        string str = "";
-        backtrack(str, n, n);
-        return sol;
+
+        vector<string> ans;
+        string current = "";
+
+        solve(n, 0, 0, current, ans);
+
+        return ans;
     }
 };
