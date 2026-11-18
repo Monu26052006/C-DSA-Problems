@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Monu26052006/C-DSA-Problems/tree/master/0001-two-sum) |
+| [0078-subsets](https://github.com/Monu26052006/C-DSA-Problems/tree/master/0078-subsets) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Monu26052006/C-DSA-Problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0835-image-overlap](https://github.com/Monu26052006/C-DSA-Problems/tree/master/0835-image-overlap) |
 | [1254-number-of-closed-islands](https://github.com/Monu26052006/C-DSA-Problems/tree/master/1254-number-of-closed-islands) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Monu26052006/C-DSA-Problems/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/Monu26052006/C-DSA-Problems/tree/master/0078-subsets) |
 | [0301-remove-invalid-parentheses](https://github.com/Monu26052006/C-DSA-Problems/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Monu26052006/C-DSA-Problems/tree/master/1096-brace-expansion-ii) |
 ## Stack
@@ -318,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Monu26052006/C-DSA-Problems/tree/master/0078-subsets) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Monu26052006/C-DSA-Problems/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Monu26052006/C-DSA-Problems/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Monu26052006/C-DSA-Problems/tree/master/3841-palindromic-path-queries-in-a-tree) |
