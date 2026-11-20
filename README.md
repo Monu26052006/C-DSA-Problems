@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Monu26052006/C-DSA-Problems/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Monu26052006/C-DSA-Problems/tree/master/0032-longest-valid-parentheses) |
+| [0392-is-subsequence](https://github.com/Monu26052006/C-DSA-Problems/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/Monu26052006/C-DSA-Problems/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/Monu26052006/C-DSA-Problems/tree/master/0678-valid-parenthesis-string) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Monu26052006/C-DSA-Problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Monu26052006/C-DSA-Problems/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Monu26052006/C-DSA-Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Monu26052006/C-DSA-Problems/tree/master/0234-palindrome-linked-list) |
+| [0392-is-subsequence](https://github.com/Monu26052006/C-DSA-Problems/tree/master/0392-is-subsequence) |
 | [0876-middle-of-the-linked-list](https://github.com/Monu26052006/C-DSA-Problems/tree/master/0876-middle-of-the-linked-list) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Monu26052006/C-DSA-Problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Monu26052006/C-DSA-Problems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Monu26052006/C-DSA-Problems/tree/master/0032-longest-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Monu26052006/C-DSA-Problems/tree/master/0125-valid-palindrome) |
 | [0301-remove-invalid-parentheses](https://github.com/Monu26052006/C-DSA-Problems/tree/master/0301-remove-invalid-parentheses) |
+| [0392-is-subsequence](https://github.com/Monu26052006/C-DSA-Problems/tree/master/0392-is-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/Monu26052006/C-DSA-Problems/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Monu26052006/C-DSA-Problems/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Monu26052006/C-DSA-Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
