@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Monu26052006/C-DSA-Problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1472-design-browser-history](https://github.com/Monu26052006/C-DSA-Problems/tree/master/1472-design-browser-history) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Monu26052006/C-DSA-Problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Monu26052006/C-DSA-Problems/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Monu26052006/C-DSA-Problems/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Monu26052006/C-DSA-Problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Monu26052006/C-DSA-Problems/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Monu26052006/C-DSA-Problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Monu26052006/C-DSA-Problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Monu26052006/C-DSA-Problems/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Monu26052006/C-DSA-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Monu26052006/C-DSA-Problems/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Monu26052006/C-DSA-Problems/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Monu26052006/C-DSA-Problems/tree/master/0148-sort-list) |
 | [1096-brace-expansion-ii](https://github.com/Monu26052006/C-DSA-Problems/tree/master/1096-brace-expansion-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Monu26052006/C-DSA-Problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Monu26052006/C-DSA-Problems/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Monu26052006/C-DSA-Problems/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Monu26052006/C-DSA-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Monu26052006/C-DSA-Problems/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -155,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Monu26052006/C-DSA-Problems/tree/master/0392-is-subsequence) |
 | [0876-middle-of-the-linked-list](https://github.com/Monu26052006/C-DSA-Problems/tree/master/0876-middle-of-the-linked-list) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Monu26052006/C-DSA-Problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Monu26052006/C-DSA-Problems/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Monu26052006/C-DSA-Problems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Monu26052006/C-DSA-Problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Monu26052006/C-DSA-Problems/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
